@@ -1,0 +1,12 @@
+
+WeatherPy Analysis
+
+Through the linear regression we can observe that on avergae Max temperature is directly 
+related to the Latitude by 66.5% regardless of the hemisphere in which it is located.
+however, the southern hemisphere (67%) wins by 1% in comparisson with the northern(66%). 
+Adittionally, the linear regression helps us to understand that the other variables in 
+the model: humidity, cloudiness, and wind speed are not affected by a change in latitude regardless od its hemisphere.
+
+
+
+

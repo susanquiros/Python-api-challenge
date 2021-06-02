@@ -1,0 +1,8 @@
+
+WeatherPy Analysis
+
+1)
+
+
+
+Heat Map screenshot is save under the output
